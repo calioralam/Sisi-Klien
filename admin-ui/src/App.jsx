@@ -10,9 +10,6 @@ function App() {
     <>
       <div>
         <h1>Selamat Datang</h1>
-        <button><a href="rangkuman.jsx">Data Rangkuman</a></button>
-        <button><a href="pengiriman.html">Pengriman Surat</a></button>
-        <button><a href="pemasukan.html">Data pemasukan</a></button>
       </div>
     </> 
   )
